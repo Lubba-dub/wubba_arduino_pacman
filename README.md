@@ -14,3 +14,7 @@
 - [x] 能量豆功能
 - [x] 多关卡(共12关)
 - [ ] 特殊物品记分
+
+###arduino嫁接
+lubba-dub基于arduino开发了摇杆操控功能，具体使用详见serial-control-readme
+
